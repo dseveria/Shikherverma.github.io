@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "Can I draw on an egg?"
+subtitle:   "Eggbot shows that you can do this and much more"
+date:       2016-06-01 12:45:00
+author:     "Duana Severiano"
+header-img: "img/posts/EggBot.jpg"
+comments: true
+tags: [ Digital Fabrication, Inspiration ]
+---
+
+Hi!
+
+Though the facebook page StreetArtGlobe, I discovered this amazing tool that allows us to draw on eggs or any spheric surface that would be really hard to draw on. According to its official website "The EggBot software allows you to control the ‘bot from within Inkscape — a superb freeware illustration program — on Mac, Windows, or Linux computers. You can draw an image directly, trace a photograph, or import designs from other programs. You can also control the EggBot directly from many other programs that have the ability to send serial commands over a USB port." You can also create animated drawings that can be seen with the auxilary of a rotation tool as you can see on this video.
