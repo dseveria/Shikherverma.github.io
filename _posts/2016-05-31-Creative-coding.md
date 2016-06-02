@@ -4,7 +4,7 @@ title:      "Creative coding"
 subtitle:   "Art made with code"
 date:       2016-05-31 11:30:00
 author:     "Duana Severiano"
-header-img: "img/posts/CreativeCoding.jpg"
+header-img: "img/posts/Creative.jpg"
 comments: true
 tags: [ Digital Fabrication, Inspiration ]
 ---
