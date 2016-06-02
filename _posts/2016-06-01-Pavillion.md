@@ -4,7 +4,7 @@ title:      "Pavillion in Stuttgart"
 subtitle:   "Getting biology and architecture together"
 date:       2016-06-01 11:10:00
 author:     "Duana Severiano"
-header-img: "img/posts/Pavillion.jpg"
+header-img: "img/posts/Pav.jpg"
 comments: true
 tags: [ Digital Fabrication ]
 ---
