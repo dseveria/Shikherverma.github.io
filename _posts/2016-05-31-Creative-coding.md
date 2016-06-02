@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Creative coding"
-subtitle:   "The LaserOrigami Project proves that you can"
+subtitle:   "Art made with code"
 date:       2016-05-31 11:30:00
 author:     "Duana Severiano"
 header-img: "img/posts/CreativeCoding.jpg"
