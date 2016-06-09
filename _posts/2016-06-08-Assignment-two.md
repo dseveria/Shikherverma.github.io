@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Pavillion in Stuttgart"
-subtitle:   "Getting biology and architecture together"
+title:      "Digital fabricated box"
+subtitle:   "Using Grasshopper to create patterns"
 date:       2016-06-08 07:50:00
 author:     "Duana Severiano"
 header-img: "img/posts/Assignment.png"
