@@ -2,7 +2,7 @@
 layout:     post
 title:      "Using nature to have great ideas"
 subtitle:   "That's what Mark Miles did"
-date:       2016-06-01 11:10:00
+date:       2016-06-07 3:20:00
 author:     "Duana Severiano"
 header-img: "img/posts/Mirasol.png"
 comments: true
