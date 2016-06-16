@@ -4,7 +4,7 @@ title:      "Good bacteria to Grasshopper"
 subtitle:   "The Xylinus plug-in"
 date:       2016-06-13 12:50:00
 author:     "Duana Severiano"
-header-img: "img/posts/xylinus.jpg"
+header-img: "img/posts/xylinus.png"
 comments: true
 tags: [ Digital Fabrication ]
 ---
