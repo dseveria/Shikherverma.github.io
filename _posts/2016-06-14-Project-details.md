@@ -4,7 +4,7 @@ title:      "What is my project?"
 subtitle:   "A brief description of what I'm developing here"
 date:       2016-06-14 11:15:00
 author:     "Duana Severiano"
-header-img: "img/posts/project-background.jpg"
+header-img: "img/posts/project-backgorund.jpg"
 comments: true
 tags: [ Digital Fabrication ]
 ---
