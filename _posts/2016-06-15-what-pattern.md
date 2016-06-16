@@ -4,7 +4,7 @@ title:      "In what my pattern will be inspired?"
 subtitle:   "Taking a look at what the nature can offer"
 date:       2016-06-15 3:50:00
 author:     "Duana Severiano"
-header-img: "img/posts/Pepithelial tissue.GIF"
+header-img: "img/posts/epithelial tissue.GIF"
 comments: true
 tags: [ Digital Fabrication ]
 ---
