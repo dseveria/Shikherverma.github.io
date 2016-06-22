@@ -20,5 +20,7 @@ Searching for problems in architecture that could be solved as the natural envir
 
 Sources:
 [Doris Kim Sung interview on Archdaily](http://www.archdaily.com/505016/when-biology-inspires-architecture-an-interview-with-doris-kim-sung#_=_)
+
 [Doris Kim Sung: Metal that breathes on TEDTalks](https://www.youtube.com/watch?v=wvIyVZf3qZU)
+
 [Thermal bimetals help buildings shelter themselves from the sun](http://www.theverge.com/2012/10/27/3562340/doris-kim-sung-ted-thermal-biometals)
