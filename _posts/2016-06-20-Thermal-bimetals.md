@@ -11,8 +11,11 @@ tags: [ Digital Fabrication ]
 Hi!
 
 Searching for problems in architecture that could be solved as the natural environment does, I have the opportunity to study about Doris Kim Sung and her works. She is graduated in biology with master in architecture, so in the majority of her works she applies the lessons from biology in architecture. Her most known work is the appliance of thermal bimetals in architecture. As the pupil controls the quantity of light that enters in ours eyes, windows and facades made by thermal bimetals control the amount of light and wind that enter the building. The most interesting thing is that she studied the materials, which is actually a combination of two metal with different coefficient of dilatation, to use them is their most efficient way. As the result, she created a sustainable solution to building skin that do not depend on any source of power to work, being an everlasting solution. 
+
 ![](/img/posts/bimetals1.jpg)
+
 ![](/img/posts/bimetals2.jpg)
+
 ![](/img/posts/bimetals4.jpg)
 
 Sources:
