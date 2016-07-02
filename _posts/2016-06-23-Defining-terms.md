@@ -4,7 +4,7 @@ title:      "Biomimicry, biomimetics or bioinspired?"
 subtitle:   "Understanding each term"
 date:       2016-06-23 4:00:00
 author:     "Duana Severiano"
-header-img: "img/posts/Shape7.PNG"
+header-img: "img/posts/Shape7.png"
 comments: true
 tags: [ Digital Fabrication ]
 ---
