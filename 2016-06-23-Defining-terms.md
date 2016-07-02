@@ -2,7 +2,7 @@
 layout:     post
 title:      "Biomimicry, biomimetics or bioinspired?"
 subtitle:   "Understanding each term"
-date:       2016-06-24 4:00:00
+date:       2016-06-23 4:00:00
 author:     "Duana Severiano"
 header-img: "img/posts/Shape7.png"
 comments: true
