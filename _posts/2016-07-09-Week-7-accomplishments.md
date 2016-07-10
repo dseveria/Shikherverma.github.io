@@ -29,7 +29,8 @@ This week accomplishments:
 This week, I also prototyped my project, which I will detail in the following post. 
 
 ![](/img/posts/Duana_shape_complete.jpg)
+
 This is a screen shot of when I finished the first phase of modeling with Grasshopper. I generated a group of polysurfaces, which surfaces I worked individually applying the Voronoi pattern using Grasshopper as well.
 
 ![](/img/posts/Duana_Final_Version.jpg)
-This is a render of my model after applying the Voronoi pattern in each face. Note that the piece is not extruded yet at this point.
+This is a render of my model after applying the Voronoi pattern on each face. Note that the piece is not extruded yet at this point.
