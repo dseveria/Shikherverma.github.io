@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "Week 7 goals and accomplishments"
-subtitle:   "Tracking where I am in the project development"
-date:       2016-07-09 12:10:00
+title:      "Prototyping"
+subtitle:   ""
+date:       2016-07-09 11:45:00
 author:     "Duana Severiano"
 header-img: "img/posts/prototype_file.jpg"
 comments: true
