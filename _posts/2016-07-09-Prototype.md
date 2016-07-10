@@ -17,7 +17,7 @@ First, I printed it in the plastic machine using a Voronoi pattern with 2mm of t
 ![](/img/posts/prototype_file.jpg)
 This is a picture of what I prepared to be printed in plastic.
 
-![](/img/posts/prototype.JPG)
+![](/img/posts/Prototype.JPG)
 This is the result of the plastic printing. 
 
 ![](/img/posts/Detail.JPG)
