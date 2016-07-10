@@ -35,5 +35,5 @@ This is a screen shot of when I finished the first phase of modeling with Grassh
 ![](/img/posts/Duana_Final_Version.jpg)
 This is a render of my model after applying the Voronoi pattern on each face. Note that the piece is not extruded yet at this point.
 
-![](/img/posts/Duana_Final_Version(extruded).jpg)
+![](/img/posts/Duana_Final_version(extruded).jpg)
 This is the last version I have until now. As I said, I have to prepare the piece to be 3D printed. That's my next step.
